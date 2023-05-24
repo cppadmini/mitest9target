@@ -9,3 +9,4 @@ downloads
 gitter chat
 license
 etc..
+git commands
